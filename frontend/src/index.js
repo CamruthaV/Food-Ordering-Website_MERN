@@ -6,6 +6,7 @@ import AlertTemplate from "react-alert-template-basic";
 import {Provider} from "react-redux";
 import store from "./store";
 
+ReactDOM.render(<App />, document.getElementById('root'));
 const options = {
   position: positions.BOTTOM_CENTER,
   timeout: 5000,
