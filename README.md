@@ -27,7 +27,9 @@ MERN Stack:
 
 <h2>Getting Started</h2>
 <ol>
-    <li>Clone the repository and install dependencies. (go into the specific folder and enter the command - npm install)(sufficient as package.json already contains all required dependencies  )</li>
+    <li>Clone the repository and install dependencies. <br>
+        (go into the specific folder and enter the command - npm install)<br>
+        (sufficient as package.json already contains all required dependencies)</li>
     <li>Configure environment variables for database connections and authentication secrets.</li>
     <li>Start the development server for both frontend and backend.</li>
 </ol>
